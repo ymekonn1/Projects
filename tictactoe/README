@@ -1,0 +1,4 @@
+This project was part of CS50's Introduction to Artificial Intelligence with Python course on edX. 
+In this project I implemented an AI for a game of tictactoe. The AI uses the MinMax algorithm to make
+the best move at a given time. runner.py and the skeleton for tictactoe.py were provided by the CS50 team.
+The program requires the pygame module to run, and to run the game use python runner.py command.
