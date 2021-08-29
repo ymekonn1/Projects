@@ -1,0 +1,4 @@
+Variable Integer x is 10;
+Variable Integer y is 20;
+Add x y to x;
+Print x;
